@@ -140,8 +140,7 @@ Include screenshots of:
 
 **Sanni Sahu**  
 Final-Year IT Student | Backend Developer | ASP.NET Enthusiast  
-📧 your-email@example.com  
-🌐 LinkedIn Profile or Portfolio Link
+📧 sannisahu19@gmail.com  
 
 ---
 
